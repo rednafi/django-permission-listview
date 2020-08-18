@@ -1,4 +1,4 @@
-# Permission Based List View (Django + DRF Demo)
+# Permission Based Filtered List View (Django + DRF Demo)
 
 ## Description
 
@@ -8,7 +8,7 @@ This self-contained DRF project aims to demonstrate group permission based View 
 
 * Clone the repository
     ```
-    git clone git@github.com:rednafi/django-permission-listview.gitvenv
+    git clone git@github.com:rednafi/django-permission-listview.git
     ```
 
 * Go to project root (where `migrate.py` lives).
